@@ -37,12 +37,11 @@ where:
 
 ### 3. Positional Encoding  
 - Since the Transformer lacks recurrence, positional encodings are added to input embeddings:  
-\[
-PE_{(pos, 2i)} = \sin\left(\frac{pos}{10000^{2i/d}}\right)
-\]
-\[
-PE_{(pos, 2i+1)} = \cos\left(\frac{pos}{10000^{2i/d}}\right)
-\]
+
+$$PE_{(pos, 2i)} = \sin\left(\frac{pos}{10000^{2i/d}}\right)$$
+
+
+$$PE_{(pos, 2i+1)} = \cos\left(\frac{pos}{10000^{2i/d}}\right)$$
 
 ## Advantages  
 - **Parallelization**: Unlike RNNs, it processes entire sequences at once.  
