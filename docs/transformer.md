@@ -24,9 +24,9 @@ The Transformer model is composed of an **encoder-decoder** structure:
 
 ### 1. Self-Attention  
 Computes attention scores to weigh input tokens relative to each other. Defined as:  
-\[
-\text{Attention}(Q, K, V) = \text{softmax} \left( \frac{QK^T}{\sqrt{d_k}} \right) V
-\]
+
+$$\text{Attention}(Q, K, V) = \text{softmax} \left( \frac{QK^T}{\sqrt{d_k}} \right) V$$
+
 where:  
 - \( Q \) (Query), \( K \) (Key), and \( V \) (Value) are projected from input embeddings.  
 - \( d_k \) is the dimensionality of \( K \).  
