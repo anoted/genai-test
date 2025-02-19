@@ -24,12 +24,12 @@ The Transformer model is composed of an **encoder-decoder** structure:
 
 ### 1. Self-Attention  
 Computes attention scores to weigh input tokens relative to each other. Defined as:  
-$
+\[
 \text{Attention}(Q, K, V) = \text{softmax} \left( \frac{QK^T}{\sqrt{d_k}} \right) V
-$
+\]
 where:  
-- $ Q $ (Query), $ K $ (Key), and $ V $ (Value) are projected from input embeddings.  
-- $ d_k $ is the dimensionality of $ K $.  
+- \( Q \) (Query), \( K \) (Key), and \( V \) (Value) are projected from input embeddings.  
+- \( d_k \) is the dimensionality of \( K \).  
 
 ### 2. Multi-Head Attention  
 - Uses multiple self-attention heads in parallel.  
@@ -37,12 +37,12 @@ where:
 
 ### 3. Positional Encoding  
 - Since the Transformer lacks recurrence, positional encodings are added to input embeddings:  
-$
+\[
 PE_{(pos, 2i)} = \sin\left(\frac{pos}{10000^{2i/d}}\right)
-$
-$
+\]
+\[
 PE_{(pos, 2i+1)} = \cos\left(\frac{pos}{10000^{2i/d}}\right)
-$
+\]
 
 ## Advantages  
 - **Parallelization**: Unlike RNNs, it processes entire sequences at once.  
