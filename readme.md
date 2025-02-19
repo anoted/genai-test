@@ -4,7 +4,7 @@ Welcome to the **Generative AI Guide**! This site provides a structured overview
 
 ## Table of Contents
 1. [Introduction](readme.md)
-2. [Learning Models](learn.md)
+2. [Learning Models](docs/learn.md)
 2. [Large Language Models and Language Generation](docs/language.md)
 3. [Image Generation](docs/image.md)
 4. [Video Generation](docs/video.md)
