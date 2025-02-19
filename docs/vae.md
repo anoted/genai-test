@@ -1,7 +1,8 @@
 [⬅ Back to Main](../readme.md)
 
-## Video Generation
+### Variational Auto-Encoders (VAE)
 
 TBD
+
 
 [⬅ Back to Main](../readme.md)
