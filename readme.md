@@ -3,7 +3,8 @@
 Welcome to the **Generative AI Guide**! This site provides a structured overview of generative models, from fundamentals to advanced topics.
 
 ## Table of Contents
-1. [Introduction](https://github.com/anoted/genai-test/blob/main/readme.md)
+1. [Introduction](readme.md)
+(https://github.com/anoted/genai-test/blob/main/readme.md)
 
 ### Learning Perspective
 2. [Learning Models](docs/learn.md)
