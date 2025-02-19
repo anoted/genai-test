@@ -16,15 +16,15 @@ Welcome to the **Generative AI Guide**! This site provides a structured overview
 7. [Multi-modal Generation](docs/multi.md)
 
 ### Application Perspective
-8. [Applications of Generative AI](docs/applications.md)
+8. [Applications Overview](docs/applications.md)
+
+    (a) 
 
 ---
 
 ## Getting Started
 
 To explore the content, navigate through the sections linked above. Each topic builds upon the previous ones, making it easy to grasp the evolution of generative AI.
-
-For more details, visit the individual links.
 
 ---
 
