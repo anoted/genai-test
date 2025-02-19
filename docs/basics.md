@@ -1,4 +1,4 @@
-[⬅ Back to Main](../readme.md)
+[⬅ Back to Learning Methodology](../docs/learn.md)
 
 ## Deep Learning Basics
 
@@ -56,4 +56,4 @@ Popular deep learning frameworks include:
 - **PyTorch**
 - **Keras**
 
-[⬅ Back to Main](../readme.md)
+[⬅ Back to Learning Methodology](../docs/learn.md)
