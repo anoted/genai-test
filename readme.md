@@ -17,40 +17,24 @@ Welcome to the **Generative AI Guide**! This site provides a structured overview
 
 ### Application Perspective
 8. [Applications of Generative AI](docs/applications.md)
+
 ---
 
 ## Getting Started
 
 To explore the content, navigate through the sections linked above. Each topic builds upon the previous ones, making it easy to grasp the evolution of generative AI.
 
-For more details, visit the documentation folder (`docs/`).
-
----
-
-## `_config.yml` (Jekyll Configuration)
-```yaml
-title: "Generative AI Guide"
-theme: jekyll-theme-cayman
-markdown: kramdown
-```
+For more details, visit the individual links.
 
 ---
 
 ## File Structure
 ```
 📂 generative-ai-site
-│── 📄 index.md  (Home page)
-│── 📂 docs/  (Documentation)
-│   │── 📄 introduction.md  (Introduction to Generative AI)
-│   │── 📄 deep-learning-basics.md  (Fundamentals of Deep Learning)
-│   │── 📄 vae.md  (Variational Autoencoders Overview)
-│   │── 📄 gan.md  (Generative Adversarial Networks Overview)
-│   │── 📄 diffusion-models.md  (Diffusion Models Overview)
-│   │── 📄 llms.md  (Large Language Models Overview)
-│   │── 📄 applications.md  (Real-world Applications of Generative AI)
+│── 📄 readme.md  (Home page)
+│── 📂 docs/  (Documentations)
 │── 📂 assets/  (Images, Diagrams, etc.)
-│── 📄 _config.yml  (Site Configuration)
-│── 📄 README.md
+│── 📄 _config.yml  (Site Configuration - optional)
 ```
 
 ---

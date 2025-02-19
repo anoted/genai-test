@@ -1,8 +1,13 @@
+[⬅ Back to Main](../readme.md)
 
-## Applications of Generative AI
+## Learning Methodology
 
-### Practical Uses
-- **Art & Design:** AI-generated paintings, videos, and animations.
-- **Healthcare:** AI-driven drug discovery and medical imaging.
-- **Entertainment:** AI-powered music and storytelling.
-- **Marketing & Business:** Automated content creation and chatbots.
+Generative AI introduced many different ways of training AI models as well
+
+2. [Deep Learning Basics](docs/basics.md)
+3. [Variational Autoencoders (VAEs)](docs/vae.md)
+4. [Generative Adversarial Networks (GANs)](docs/gan.md)
+5. [Denoising Diffusion Probabilistic Models](docs/ddpm.md)
+5. [Transformer Models](docs/transformer.md)
+
+[⬅ Back to Main](../readme.md)
