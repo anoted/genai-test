@@ -1,4 +1,4 @@
-[⬅ Back to Main](../readme.md)
+[⬅ Back to Learning Methodology](../docs/learn.md)
 
 ## Learning Methodology
 
@@ -10,4 +10,4 @@ Generative AI introduced many different ways of training AI models as well
 4. [Denoising Diffusion Probabilistic Models](../docs/ddpm.md)
 5. [Transformer Models](../docs/transformer.md)
 
-[⬅ Back to Main](../readme.md)
+[⬅ Back to Learning Methodology](../docs/learn.md)
