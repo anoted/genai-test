@@ -1,6 +1,5 @@
 
-[⬅ Back to Main](../readme.md)
-
+[⬅ Back to Learning Methodology](../docs/learn.md)
 
 ## Generative Adversarial Networks (GANs)
 
@@ -12,4 +11,4 @@ GANs consist of two neural networks, a generator and a discriminator, that compe
 - **Discriminator:** Distinguishes real data from generated data.
 - **Training Process:** The generator improves until its outputs are indistinguishable from real data.
 
-[⬅ Back to Main](../readme.md)
+[⬅ Back to Learning Methodology](../docs/learn.md)

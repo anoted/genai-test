@@ -1,8 +1,8 @@
-[⬅ Back to Main](../readme.md)
+[⬅ Back to Learning Methodology](../docs/learn.md)
 
 ### Variational Auto-Encoders (VAE)
 
 TBD
 
 
-[⬅ Back to Main](../readme.md)
+[⬅ Back to Learning Methodology](../docs/learn.md)

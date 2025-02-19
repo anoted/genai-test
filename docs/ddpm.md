@@ -1,6 +1,5 @@
 
-[⬅ Back to Main](../readme.md)
-
+[⬅ Back to Learning Methodology](../docs/learn.md)
 
 ## Diffusion Models
 
@@ -16,5 +15,4 @@ Diffusion models iteratively refine data by modeling the inverse of a noise-addi
 TBD 
  . . . 
 
-[⬅ Back to Main](../readme.md)
-
+[⬅ Back to Learning Methodology](../docs/learn.md)
