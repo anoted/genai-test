@@ -18,7 +18,9 @@ Welcome to the **Generative AI Guide**! This site provides a structured overview
 ### Application Perspective
 8. [Applications Overview](docs/applications.md)
 
-    (a) 
+    (a) [AI Agents](docs/agents.md)
+    (b) [Text to Image]
+    (c) []
 
 ---
 
