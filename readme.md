@@ -19,7 +19,9 @@ Welcome to the **Generative AI Guide**! This site provides a structured overview
 8. [Applications Overview](docs/applications.md)
 
     (a) [AI Agents](docs/agents.md)
-    (b) [Text to Image]
+
+    (b) [Simulation and Synthetic Data](docs/sim.md)
+
     (c) []
 
 ---
